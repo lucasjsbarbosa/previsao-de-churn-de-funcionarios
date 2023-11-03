@@ -4,7 +4,7 @@ Este repositório contém um projeto de previsão de churn de funcionários, foc
 
 ## Estrutura do Repositório
 
-- `data/`: [Pasta com o dataset utilizado nas análises.](https://github.com/lucasjsbarbosa/previsao-de-churn-de-funcionarios/tree/main/dados) - (www.kaggle.com%2Fpavansubhasht%2Fibm-hr-analytics-attrition-dataset)
+- `data/`: [Pasta com o dataset utilizado nas análises.](https://github.com/lucasjsbarbosa/previsao-de-churn-de-funcionarios/tree/main/dados)
 - `notebooks/`: [Notebooks do Jupyter com a Análise Exploratória de Dados (EDA) e a modelagem preditiva.](https://github.com/lucasjsbarbosa/previsao-de-churn-de-funcionarios/blob/main/previsao_de_churn_de_funcionarios.ipynb)
 
 ## Dataset
