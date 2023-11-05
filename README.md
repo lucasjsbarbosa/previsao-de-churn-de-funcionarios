@@ -21,7 +21,7 @@ Os modelos de machine learning são construídos e avaliados no notebook. Explor
 
 ## Resultados e Insights
 
-Os resultados das previsões de churn, juntamente com as análises de importância das variáveis e a acurácia de cada modelo estão documentados nos notebooks e sintetizados nos relatórios localizados em `reports/`.
+Os resultados das previsões de churn, juntamente com as análises de importância das variáveis e a acurácia de cada modelo estão documentados nos notebooks..
 
 ## Licença
 Este projeto é distribuído sob a licença MIT, conforme encontrado no arquivo LICENSE.md.
