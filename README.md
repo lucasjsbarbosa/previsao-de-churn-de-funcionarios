@@ -1,4 +1,4 @@
-# Previsão de Churn de Funcionários de um RH
+# Retenção de Talentos via Previsão de Churn: 
 
 Este repositório contém um projeto de previsão de churn de funcionários, focado em modelar e prever quais colaboradores têm maior probabilidade de deixar a empresa. Utilizando dados históricos dos colaboradores, desenvolvemos modelos de machine learning para identificar fatores-chave que contribuem para a decisão de sair da empresa, visando estratégias proativas de retenção.
 
